@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\3_LB\3_LB\bin\Debug\3_LB.exe.config
+C:\Users\User\Desktop\3_LB\3_LB\bin\Debug\3_LB.exe
+C:\Users\User\Desktop\3_LB\3_LB\bin\Debug\3_LB.pdb
+C:\Users\User\Desktop\3_LB\3_LB\obj\Debug\3_LB.csprojAssemblyReference.cache
+C:\Users\User\Desktop\3_LB\3_LB\obj\Debug\3_LB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3_LB\3_LB\obj\Debug\3_LB.exe
+C:\Users\User\Desktop\3_LB\3_LB\obj\Debug\3_LB.pdb
