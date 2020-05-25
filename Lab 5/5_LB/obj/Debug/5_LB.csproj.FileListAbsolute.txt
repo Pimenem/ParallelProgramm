@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\5_LB\5_LB\obj\Debug\5_LB.csprojAssemblyReference.cache
+C:\Users\User\Desktop\5_LB\5_LB\obj\Debug\5_LB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\5_LB\5_LB\bin\Debug\5_LB.exe.config
+C:\Users\User\Desktop\5_LB\5_LB\bin\Debug\5_LB.exe
+C:\Users\User\Desktop\5_LB\5_LB\bin\Debug\5_LB.pdb
+C:\Users\User\Desktop\5_LB\5_LB\obj\Debug\5_LB.exe
+C:\Users\User\Desktop\5_LB\5_LB\obj\Debug\5_LB.pdb
